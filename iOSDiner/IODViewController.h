@@ -25,7 +25,7 @@
 - (IBAction)ibaLoadNextItem:(id)sender;
 - (IBAction)ibaCalculateTotal:(id)sender;
 
-
-
+- (void)updateInventoryButtons;
+- (void)updateCurrentInventoryItem;
 
 @end
